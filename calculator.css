@@ -1,0 +1,33 @@
+Button:hover {
+    background-color: rgb(209, 199, 185);
+}
+
+Button {
+    border: 1px solid rgb(77, 74, 74);
+    border-radius: 10px;
+    background-color:rgb(148, 145, 145);
+    margin-left: 10px;
+}
+
+#div1 {
+    width: 259px;
+    height: 330px;
+    background-color: rgb(59, 57, 57);
+    margin-left: 610px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+#div2 {
+     margin-left: 8px;
+}
+b{
+    color: white;
+    font-size: 30px;
+}
+h1 {
+    color: rgb(98, 94, 94);
+    font-size: 40px;
+    letter-spacing: 1px;
+    text-decoration: 1px double underline;
+}
